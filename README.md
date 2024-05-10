@@ -1,0 +1,2 @@
+# MyTradeHub
+An android application
